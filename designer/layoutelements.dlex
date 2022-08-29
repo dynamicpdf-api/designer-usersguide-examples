@@ -11,10 +11,21 @@
     </detail>
     <footer id="Footer1" height="0"/>
   </report>
-  <page id="Page1" pageSize="custom" pageWidth="612" pageHeight="300" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50">
+  <page id="Page1" pageSize="custom" pageWidth="612" pageHeight="500" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50">
+    <rectangle id="Rectangle3" x="3" y="180" width="496" height="101" borderColor="blueViolet" borderStyle="dashSmall" borderWidth="5"/>
     <symbol id="Symbol1" x="9" y="109" width="146" height="42" color="red" size="32" symbolType="check1"/>
     <symbol id="Symbol2" x="193" y="107" width="100" height="51" size="42" symbolType="x3"/>
     <recordBox id="RecordBox1" x="5" y="13" width="342" height="29" fontSize="32" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="title"/>
     <recordBox id="RecordBox2" x="6" y="55" width="337" height="28" fontSize="22" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="description"/>
+    <label id="Label1" x="370" y="37" width="100" height="14" underline="false" text="RecordBox"/>
+    <label id="Label2" x="373" y="136" width="100" height="14" underline="false" text="Symbol"/>
+    <line id="Line1" x1="9" y1="190" x2="369" y2="188" style="dashLarge"/>
+    <label id="Label3" x="388" y="190" width="100" height="14" underline="false" text="Line"/>
+    <line id="Line2" x1="11" y1="207" x2="369" y2="207"/>
+    <line id="Line3" x1="14" y1="223" x2="168" y2="265" color="green" style="dots"/>
+    <label id="Label4" x="241" y="259" width="100" height="14" underline="false" text="Line"/>
+    <rectangle id="Rectangle1" x="3" y="6" width="492" height="91" borderColor="red" cornerRadius="5"/>
+    <rectangle id="Rectangle2" x="3" y="101" width="494" height="69" borderColor="black"/>
+    <rectangle id="Rectangle4" x="24" y="303" width="459" height="33" angle="5" borderColor="black" fillColor="orangeRed"/>
   </page>
 </document>

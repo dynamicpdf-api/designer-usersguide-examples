@@ -1,0 +1,77 @@
+{
+  "ReportName": "Widget Stock By Region State and City",
+  "Date": "09/21/2021",
+  "Author": "John Doe",
+  "regions": [
+    {
+      "name": "North East",
+      "Description": "The north east region's stock by state.",
+      "units": 369444,
+      "States": [
+        {
+          "name": "New Jersey",
+          "units": 22609,
+          "cities": [
+            {
+              "name": "Toms River",
+              "units": 333
+            },
+            {
+              "name": "Newark",
+              "units": 22276
+            }
+          ]
+        },
+        {
+          "name": "New York",
+          "units": 346835,
+          "cities": [
+            {
+              "name": "Albany",
+              "units": 323423
+            },
+            {
+              "name": "Catskill",
+              "units": 23412
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "South West",
+      "Description": "The South West region's stock by state.",
+      "units": 3514011,
+      "States": [
+        {
+          "name": "Arizona",
+          "units": 2156764,
+          "cities": [
+            {
+              "name": "Tempe",
+              "units": 2124312
+            },
+            {
+              "name": "Phoenix",
+              "units": 32452
+            }
+          ]
+        },
+        {
+          "name": "New Mexico",
+          "units": 1357247,
+          "cities": [
+            {
+              "name": "Las Cruces",
+              "units": 1234124
+            },
+            {
+              "name": "Albuquerque",
+              "units": 123123
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

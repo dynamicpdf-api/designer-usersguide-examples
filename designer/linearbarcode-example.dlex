@@ -1,0 +1,7 @@
+<document xmlns="https://www.dynamicpdf.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.dynamicpdf.com https://www.dynamicpdf.com/schemas/DLEX20.xsd" version="2.0" author="" keywords="" subject="" title="" id="Document1">
+  <page id="Page1" pageSize="letter" pageOrientation="portrait" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50">
+    <recordBox id="RecordBox1" x="1" y="140" width="512" height="18" align="center" fontSize="16" textColor="red" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="name"/>
+    <linearBarcode id="LinearBarcode1" x="142" y="223" width="219" height="55" value="12345678901" type="upcVersionA" supplementValue=" "/>
+    <recordBox id="RecordBox2" x="-4" y="187" width="517" height="18" align="center" fontSize="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="true" splittable="false" dataName="description"/>
+  </page>
+</document>

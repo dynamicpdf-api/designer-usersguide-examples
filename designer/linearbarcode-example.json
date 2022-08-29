@@ -1,0 +1,12 @@
+{
+  "name":"UPC Barcode Example",
+  "description":"UPC is used for retail barcoding in North America",
+  "items" : [
+    {
+      "barcode":12345678901
+     },
+     {
+       "barcode":23456789011
+      }
+   ]
+}
