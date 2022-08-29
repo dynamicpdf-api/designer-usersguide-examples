@@ -1,0 +1,20 @@
+<document xmlns="https://www.dynamicpdf.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.dynamicpdf.com https://www.dynamicpdf.com/schemas/DLEX20.xsd" version="2.0" author="" keywords="" subject="" title="" id="Document1">
+  <report id="Report1" dataName="data" pageSize="letter" pageOrientation="portrait" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50">
+    <template id="Template1"/>
+    <header id="Header1" height="0"/>
+    <detail id="Detail1" autoSplit="false" height="100">
+      <recordBox id="RecordBox3" x="5" y="2" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="id"/>
+      <recordBox id="RecordBox4" x="205" y="3" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="name"/>
+      <recordBox id="RecordBox5" x="310" y="3" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="value"/>
+      <symbol id="Symbol3" x="111" y="3" width="42" height="14" color="red" visibilityCondition="gt(value, 5)" symbolType="square"/>
+      <symbol id="Symbol4" x="160" y="3" width="35" height="14" visibilityCondition="lt(value,10)" symbolType="check1"/>
+    </detail>
+    <footer id="Footer1" height="0"/>
+  </report>
+  <page id="Page1" pageSize="custom" pageWidth="612" pageHeight="300" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50">
+    <symbol id="Symbol1" x="9" y="109" width="146" height="42" color="red" size="32" symbolType="check1"/>
+    <symbol id="Symbol2" x="193" y="107" width="100" height="51" size="42" symbolType="x3"/>
+    <recordBox id="RecordBox1" x="5" y="13" width="342" height="29" fontSize="32" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="title"/>
+    <recordBox id="RecordBox2" x="6" y="55" width="337" height="28" fontSize="22" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="description"/>
+  </page>
+</document>

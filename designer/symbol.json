@@ -1,0 +1,24 @@
+{
+  "title":"Symbol Example",
+  "description":"Example of the Symbol layout element.",
+  "data": [
+    {
+      "name" : "a",
+      "value" : "sample one A",
+      "id" : "1",
+      "value" : 22
+    },
+    {
+      "name" : "b",
+      "value" : "sample two A",
+      "id" : "2",
+      "value" : 2
+    },
+    {
+      "name" : "c",
+      "value" : "sample three A",
+      "id" : "3",
+      "value" : 88
+    }
+  ]
+}
