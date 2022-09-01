@@ -1,0 +1,14 @@
+{
+  "name" : "Simple dynamic URL example.",
+  "urls" : [
+             {
+               "name": "DynamicPDF Core Suite",
+               "myurl": "www.dynamicpdf.com"
+             },
+             { 
+                "name" : "DynamicPDF Cloud API",
+                "myurl": "cloud.dynamicpdf.com"
+              }
+           ]
+}
+               

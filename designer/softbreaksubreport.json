@@ -36,6 +36,85 @@
             }
           ]
         }
+      ],
+      "regiondata": [
+        {
+          "name": "description",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "history",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "geography",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "facts",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "entertainment",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . "
+        }
+      ]
+    },
+    {
+      "name": "North West",
+      "Description": "The north west region's stock by state.",
+      "units": 369444,
+      "States": [
+        {
+          "name": "Idaho",
+          "units": 22609,
+          "cities": [
+            {
+              "name": "Boise",
+              "units": 333
+            },
+            {
+              "name": "Pocatello",
+              "units": 22276
+            }
+          ]
+        },
+        {
+          "name": "Oregon",
+          "units": 346835,
+          "cities": [
+            {
+              "name": "Portland",
+              "units": 323423
+            },
+            {
+              "name": "Eugene",
+              "units": 23412
+            }
+          ]
+        }
+      ],
+      "regiondata": [
+        {
+          "name": "description",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "history",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "geography",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "facts",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "entertainment",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . "
+        }
       ]
     },
     {
@@ -70,6 +149,85 @@
               "units": 123123
             }
           ]
+        }
+      ],
+      "regiondata": [
+        {
+          "name": "description",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "history",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "geography",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "facts",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "entertainment",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . "
+        }
+      ]
+    },
+    {
+      "name": "South East",
+      "Description": "The north east region's stock by state.",
+      "units": 369444,
+      "States": [
+        {
+          "name": "Virginia",
+          "units": 22609,
+          "cities": [
+            {
+              "name": "Richmond",
+              "units": 333
+            },
+            {
+              "name": "Lynchburg",
+              "units": 22276
+            }
+          ]
+        },
+        {
+          "name": "Georgia",
+          "units": 346835,
+          "cities": [
+            {
+              "name": "Atlanta",
+              "units": 323423
+            },
+            {
+              "name": "Dothan",
+              "units": 23412
+            }
+          ]
+        }
+      ],
+      "regiondata": [
+        {
+          "name": "description",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "history",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "geography",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "facts",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "entertainment",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . "
         }
       ]
     }
