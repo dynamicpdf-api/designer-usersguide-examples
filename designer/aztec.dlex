@@ -1,0 +1,31 @@
+<document xmlns="https://www.dynamicpdf.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.dynamicpdf.com https://www.dynamicpdf.com/schemas/DLEX20.xsd" version="2.0" author="" keywords="" subject="" title="" id="Document1">
+  <report id="Report1" dataName="Coffees" pageSize="letter" pageOrientation="portrait" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50">
+    <template id="Template1"/>
+    <header id="Header1" height="25">
+      <label id="Label1" x="10" y="2" width="61" height="14" underline="false" text="Product ID"/>
+      <label id="Label2" x="75" y="2" width="100" height="14" underline="false" text="Variety"/>
+      <label id="Label3" x="295" y="2" width="100" height="14" underline="false" text="Coffee Type"/>
+      <label id="Label4" x="400" y="2" width="100" height="14" align="right" underline="false" text="Price Per Pound"/>
+      <line id="Line2" x1="10" y1="20" x2="503" y2="21"/>
+      <label id="Label6" x="183" y="1" width="100" height="14" underline="false" text="Aztec Barcode"/>
+    </header>
+    <detail id="Detail1" autoSplit="false" height="50">
+      <recordBox id="RecordBox1" x="10" y="2" width="64" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="ProductID"/>
+      <recordBox id="RecordBox2" x="78" y="3" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Variety"/>
+      <recordBox id="RecordBox3" x="298" y="2" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Type"/>
+      <recordArea id="RecordArea1" x="400" y="2" width="100" height="14" align="right" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false">
+        <text>$#Price#</text>
+      </recordArea>
+      <aztecBarcode id="AztecBarcode1" x="181" y="3" width="111" height="24" value="aztec"/>
+    </detail>
+    <footer id="Footer1" height="20">
+      <recordArea id="RecordArea2" x="10" y="4" width="218" height="14" font="HelveticaOblique" fontSize="8" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false">
+        <text>Report created by #Author#</text>
+      </recordArea>
+      <line id="Line3" x1="10" y1="2" x2="503" y2="2"/>
+      <label id="Label5" x="255" y="5" width="100" height="14" underline="false" text="Report created by"/>
+      <recordBox id="RecordBox4" x="361" y="5" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Author"/>
+      <pageNumberingLabel id="PageNumberingLabel1" x="467" y="5" width="34" height="14" underline="false" text="CP&quot;A&quot;"/>
+    </footer>
+  </report>
+</document>
