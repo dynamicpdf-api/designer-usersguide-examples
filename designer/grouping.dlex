@@ -1,0 +1,44 @@
+<document xmlns="https://www.dynamicpdf.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.dynamicpdf.com https://www.dynamicpdf.com/schemas/DLEX20.xsd" version="2.0" author="" keywords="" subject="" title="" id="Document1">
+  <report id="Report1" dataName="fieldData" pageSize="letter" pageOrientation="portrait" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50">
+    <template id="Template1"/>
+    <header id="Header1" height="0"/>
+    <detail id="Detail1" autoSplit="true" height="800">
+      <contentGroup id="ContentGroup1" x="7" y="16" width="434" height="780" splittable="true">
+        <recordBox id="RecordBox1" x="6" y="10" width="100" height="14" textColor="orange" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="AcknowledgedShipDate"/>
+        <recordBox id="RecordBox2" x="8" y="31" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="AcknowledgementNumber"/>
+        <recordBox id="RecordBox3" x="9" y="57" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="AdobeCuts"/>
+        <recordBox id="RecordBox4" x="8" y="80" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="AllocatedNotStaged"/>
+        <recordBox id="RecordBox5" x="10" y="102" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="AllocatedTransactionType"/>
+        <recordBox id="RecordBox6" x="10" y="125" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Anchors"/>
+        <recordBox id="RecordBox7" x="9" y="144" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="APCostForOrdered"/>
+        <recordBox id="RecordBox8" x="8" y="163" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Area"/>
+        <line id="Line1" x1="3" y1="771" x2="292" y2="771" color="blue"/>
+        <line id="Line2" x1="5" y1="3" x2="296" y2="3" color="red"/>
+        <recordBox id="RecordBox9" x="21" y="194" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Construction"/>
+        <recordBox id="RecordBox10" x="14" y="209" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Hand"/>
+        <recordBox id="RecordBox11" x="16" y="235" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="HdweSetID"/>
+        <recordBox id="RecordBox12" x="18" y="262" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="LineIDHidden"/>
+        <recordBox id="RecordBox13" x="19" y="285" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="ListEach"/>
+        <recordBox id="RecordBox14" x="24" y="318" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="OutboundFreight"/>
+        <recordBox id="RecordBox15" x="18" y="334" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="PackSlipID"/>
+        <recordBox id="RecordBox16" x="17" y="355" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="ProductNameAndDescription"/>
+        <recordBox id="RecordBox17" x="19" y="379" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="QuoteNet"/>
+        <recordBox id="RecordBox18" x="21" y="403" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="QuoteNetSurchargeEach"/>
+        <recordBox id="RecordBox19" x="24" y="429" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="ReadyToShip"/>
+        <recordBox id="RecordBox20" x="24" y="457" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="ReadyToShipDate"/>
+        <recordBox id="RecordBox21" x="27" y="485" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="RecordID"/>
+        <recordBox id="RecordBox22" x="27" y="516" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="SellExt"/>
+        <recordBox id="RecordBox23" x="30" y="545" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="ShowOnProposal"/>
+        <recordBox id="RecordBox24" x="32" y="570" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Source"/>
+        <recordBox id="RecordBox25" x="34" y="597" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="StagedNotShipped"/>
+        <recordBox id="RecordBox26" x="34" y="627" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="StandardCostValueForAllocated"/>
+        <recordBox id="RecordBox27" x="33" y="654" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="StandardLaborCost"/>
+        <recordBox id="RecordBox28" x="31" y="682" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="SurchargeAmountEach"/>
+        <recordBox id="RecordBox29" x="30" y="708" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="TagNumsReadOnly"/>
+        <recordBox id="RecordBox30" x="31" y="731" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="TotalQtyAcknowledged"/>
+        <recordBox id="RecordBox31" x="26" y="752" width="100" height="14" textColor="red" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="TotalQtyReceived"/>
+      </contentGroup>
+    </detail>
+    <footer id="Footer1" height="0"/>
+  </report>
+</document>
