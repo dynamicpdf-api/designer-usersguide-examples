@@ -1,0 +1,49 @@
+<document xmlns="https://www.dynamicpdf.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.dynamicpdf.com https://www.dynamicpdf.com/schemas/DLEX20.xsd" version="2.0" author="" keywords="" subject="" title="" id="Document1">
+  <report id="Report1" dataName="regions" pageSize="letter" pageOrientation="portrait" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50">
+    <template id="Template1"/>
+    <header id="Header1" height="50">
+      <recordArea id="RecordArea1" x="47" y="1" width="462" height="14" align="right" font="HelveticaOblique" fontSize="8" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false">
+        <text>#Author# | #Date# | #ReportName#</text>
+      </recordArea>
+    </header>
+    <detail id="Detail1" autoSplit="false" height="400">
+      <rectangle id="Rectangle2" x="15" y="270" width="480" height="44" borderColor="black" fillColor="lightGrey"/>
+      <subReport id="SubReport1" x="206" y="78" width="300" dataName="States">
+        <header id="Header2" height="0"/>
+        <detail id="Detail2" autoSplit="false" height="100">
+          <subReport id="SubReport2" x="100" y="47" width="200" dataName="cities">
+            <header id="Header3" height="0"/>
+            <detail id="Detail3" autoSplit="false" height="25">
+              <recordBox id="RecordBox5" x="6" y="5" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="name"/>
+              <recordBox id="RecordBox6" x="115" y="4" width="72" height="14" align="right" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="units" dataFormat="#,#"/>
+            </detail>
+            <footer id="Footer3" height="0"/>
+          </subReport>
+          <rectangle id="Rectangle1" x="7" y="6" width="285" height="34" borderColor="black" fillColor="lightBlue"/>
+          <recordBox id="RecordBox8" x="11" y="16" width="100" height="14" textColor="darkOliveGreen" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="name"/>
+          <recordBox id="RecordBox9" x="189" y="80" width="100" height="14" align="right" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="units" dataFormat="#,#"/>
+          <line id="Line2" x1="105" y1="74" x2="290" y2="74"/>
+        </detail>
+        <footer id="Footer2" height="0"/>
+      </subReport>
+      <recordBox id="RecordBox1" x="8" y="9" width="243" height="24" fontSize="22" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="name"/>
+      <line id="Line1" x1="8" y1="42" x2="502" y2="44" width="4" color="red"/>
+      <recordBox id="RecordBox10" x="419" y="186" width="75" height="18" align="right" fontSize="16" textColor="blue" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="units" dataFormat="#,#"/>
+      <recordBox id="RecordBox4" x="8" y="51" width="283" height="20" fontSize="16" textColor="blue" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="true" splittable="false" dataName="Description"/>
+      <label id="Label1" x="324" y="186" width="92" height="19" fontSize="16" textColor="blue" underline="false" text="State Total:"/>
+      <subReport id="SubReport3" x="15" y="320" width="490" dataName="regiondata">
+        <header id="Header4" height="0"/>
+        <detail id="Detail4" autoSplit="false" height="50">
+          <recordBox id="RecordBox11" x="6" y="5" width="100" height="14" font="HelveticaBold" fontSize="14" textColor="blue" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="name"/>
+          <recordBox id="RecordBox12" x="6" y="27" width="479" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="true" splittable="false" dataName="description"/>
+        </detail>
+        <footer id="Footer4" height="15"/>
+      </subReport>
+      <label id="Label2" x="22" y="279" width="200" height="27" font="CourierBoldOblique" fontSize="14" textColor="darkBlue" underline="false" text="Regional Information"/>
+      <pageBreak id="PageBreak1" y="218"/>
+    </detail>
+    <footer id="Footer1" height="20">
+      <pageNumberingLabel id="PageNumberingLabel1" x="335" y="3" width="176" height="14" align="right" underline="false" text="%%CP(1)%% of %%TP(1)%%" pageOffset="-1"/>
+    </footer>
+  </report>
+</document>

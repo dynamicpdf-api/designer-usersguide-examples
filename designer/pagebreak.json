@@ -1,0 +1,235 @@
+{
+  "ReportName": "Widget Stock By Region State and City",
+  "Date": "09/21/2021",
+  "Author": "John Doe",
+  "regions": [
+    {
+      "name": "North East",
+      "Description": "The north east region's stock by state.",
+      "units": 369444,
+      "States": [
+        {
+          "name": "New Jersey",
+          "units": 22609,
+          "cities": [
+            {
+              "name": "Toms River",
+              "units": 333
+            },
+            {
+              "name": "Newark",
+              "units": 22276
+            }
+          ]
+        },
+        {
+          "name": "New York",
+          "units": 346835,
+          "cities": [
+            {
+              "name": "Albany",
+              "units": 323423
+            },
+            {
+              "name": "Catskill",
+              "units": 23412
+            }
+          ]
+        }
+      ],
+      "regiondata": [
+        {
+          "name": "description",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "history",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "geography",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "facts",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "entertainment",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . "
+        }
+      ]
+    },
+    {
+      "name": "North West",
+      "Description": "The north west region's stock by state.",
+      "units": 369444,
+      "States": [
+        {
+          "name": "Idaho",
+          "units": 22609,
+          "cities": [
+            {
+              "name": "Boise",
+              "units": 333
+            },
+            {
+              "name": "Pocatello",
+              "units": 22276
+            }
+          ]
+        },
+        {
+          "name": "Oregon",
+          "units": 346835,
+          "cities": [
+            {
+              "name": "Portland",
+              "units": 323423
+            },
+            {
+              "name": "Eugene",
+              "units": 23412
+            }
+          ]
+        }
+      ],
+      "regiondata": [
+        {
+          "name": "description",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "history",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "geography",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "facts",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "entertainment",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . "
+        }
+      ]
+    },
+    {
+      "name": "South West",
+      "Description": "The South West region's stock by state.",
+      "units": 3514011,
+      "States": [
+        {
+          "name": "Arizona",
+          "units": 2156764,
+          "cities": [
+            {
+              "name": "Tempe",
+              "units": 2124312
+            },
+            {
+              "name": "Phoenix",
+              "units": 32452
+            }
+          ]
+        },
+        {
+          "name": "New Mexico",
+          "units": 1357247,
+          "cities": [
+            {
+              "name": "Las Cruces",
+              "units": 1234124
+            },
+            {
+              "name": "Albuquerque",
+              "units": 123123
+            }
+          ]
+        }
+      ],
+      "regiondata": [
+        {
+          "name": "description",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "history",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "geography",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "facts",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "entertainment",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . "
+        }
+      ]
+    },
+    {
+      "name": "South East",
+      "Description": "The north east region's stock by state.",
+      "units": 369444,
+      "States": [
+        {
+          "name": "Virginia",
+          "units": 22609,
+          "cities": [
+            {
+              "name": "Richmond",
+              "units": 333
+            },
+            {
+              "name": "Lynchburg",
+              "units": 22276
+            }
+          ]
+        },
+        {
+          "name": "Georgia",
+          "units": 346835,
+          "cities": [
+            {
+              "name": "Atlanta",
+              "units": 323423
+            },
+            {
+              "name": "Dothan",
+              "units": 23412
+            }
+          ]
+        }
+      ],
+      "regiondata": [
+        {
+          "name": "description",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "history",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "geography",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray."
+        },
+        {
+          "name": "facts",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray"
+        },
+        {
+          "name": "entertainment",
+          "description": "ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . ayay ickthay oatcay ofyay ackblay aintpay overedcay allyay . arscay andyay ussesbay alledstay inyay owsnay iftsdray . "
+        }
+      ]
+    }
+  ]
+}
