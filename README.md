@@ -5,11 +5,9 @@ This project contains Designer examples from the Users Guide Layout Elements.
 
 To use any of the projects from this project, upload them using the Resource Manager to your cloud storage space. Be certain to upload the DLEX, the JSON, and any related resources to your cloud storage space. 
 
-:::info
+* **All project files in this project run in Designer. Upload the resources needed form your local file system to your DynamicPDF cloud storage.**
 
-All project files in this project run in Designer. Upload the resources needed form your local file system to your DynamicPDF cloud storage.
-
-:::
+  
 
 ![](./readme.png)
 
