@@ -8,6 +8,9 @@
       <recordBox id="RecordBox5" x="310" y="3" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="value"/>
       <symbol id="Symbol3" x="111" y="3" width="42" height="14" color="red" visibilityCondition="gt(value, 5)" symbolType="square"/>
       <symbol id="Symbol4" x="160" y="3" width="35" height="14" visibilityCondition="lt(value,10)" symbolType="check1"/>
+      <formattedRecordArea id="FormattedRecordArea1" x="5" y="38" width="477" height="14" expandable="false" splittable="false" vAlign="top">
+        <text>&lt;p&gt;The name: #name# and value: #value#&lt;/p&gt;</text>
+      </formattedRecordArea>
     </detail>
     <footer id="Footer1" height="0"/>
   </report>
@@ -26,6 +29,9 @@
     <label id="Label4" x="241" y="259" width="100" height="14" underline="false" text="Line"/>
     <rectangle id="Rectangle1" x="3" y="6" width="492" height="91" borderColor="red" cornerRadius="5"/>
     <rectangle id="Rectangle2" x="3" y="101" width="494" height="69" borderColor="black"/>
-    <rectangle id="Rectangle4" x="24" y="303" width="459" height="33" angle="5" borderColor="black" fillColor="orangeRed"/>
+    <rectangle id="Rectangle4" x="24" y="303" width="459" height="33" borderColor="black" fillColor="orangeRed"/>
+    <recordArea id="RecordArea1" x="25" y="352" width="358" height="36" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false">
+      <text>RecordArea = #title# and #description#</text>
+    </recordArea>
   </page>
 </document>
