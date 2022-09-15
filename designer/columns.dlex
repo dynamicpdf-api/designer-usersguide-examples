@@ -1,0 +1,14 @@
+<document xmlns="https://www.dynamicpdf.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.dynamicpdf.com https://www.dynamicpdf.com/schemas/DLEX20.xsd" version="2.0" author="" keywords="" subject="" title="" id="Document1">
+  <report id="Report1" dataName="Coffees" pageSize="letter" pageOrientation="portrait" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50" columns="4" columnSpacing="20" columnLayout="verticalUneven">
+    <template id="Template1"/>
+    <header id="Header1" height="0"/>
+    <detail id="Detail1" autoSplit="false" height="75">
+      <recordBox id="RecordBox1" x="5" y="4" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="ProductID"/>
+      <recordBox id="RecordBox2" x="5" y="22" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Type"/>
+      <recordBox id="RecordBox3" x="5" y="39" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Variety"/>
+      <recordBox id="RecordBox4" x="5" y="58" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" splittable="false" dataName="Price"/>
+      <line id="Line2" x1="5" y1="2" x2="107" y2="2"/>
+    </detail>
+    <footer id="Footer1" height="0"/>
+  </report>
+</document>
