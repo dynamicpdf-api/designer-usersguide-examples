@@ -43,19 +43,6 @@ To use any of the projects from this project, upload them using the Resource Man
 | **Symbol**              | `layoutelements.dlex`, `layoutelements.json`               | Illustrates using **Symbol** on a page and in a report's details. |
 
 
-
 | Other         | File Names                                                   | Description                                                  |
 | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Using Columns | `columns.dlex`, `columns.json`, `columnsubreport.dlex`, `columnsubreport.json` | Illustrates using a columnar layout in a report and a sub report. |
-
-# Support
-
-The primary source for the DynamicPDF Cloud API support is through [Stack Overflow](https://stackoverflow.com/questions/tagged/dynamicpdf-api). Please use the "[dynamicpdf-api](https://stackoverflow.com/questions/tagged/dynamicpdf-api)" tag to ask questions. Our support team actively monitors the tag and responds promptly to any questions.  Also, let us know you asked the question by following up with an email to [support@dynamicpdf.com](mailto:support@dynamicpdf.com). 
-
-## Pro Plan Subscribers[#](https://cloud.dynamicpdf.com/support#pro-plan-subscribers)
-
-Ticket support is available to Pro Plan subscribers. But we still encourage you to help the community by posting on Stack Overflow when possible. You can also email [support@dynamicpdf.com](mailto:support@dynamicpdf.com) if you need to ask something specific to your use case that may not help the DynamicPDF Cloud API community.
-
-# License
-
-The `java-client-examples` library is licensed under the [MIT License](./LICENSE).
