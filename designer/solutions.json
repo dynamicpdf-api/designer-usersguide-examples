@@ -1,0 +1,23 @@
+ {
+ "ReportName": "DynamicPDF API Solutions List",
+  "Date": "05/08/2024",
+  "Author": "DynamicPDF API",
+  "Logo": "https://www.dynamicpdf.com/images/logo.png",
+  "Solutions": [
+    {
+      "Name": "Convert HTML to PDF",
+	  "URL": "https://dpdf.io/docs/usersguide/solutions/html-pdf/",
+	  "Image": "A.png"
+    },
+    {
+      "Name": "Convert Word to PDF",
+	  "URL": "https://dpdf.io/docs/usersguide/solutions/word-pdf/",
+	  "Image": "B.png"
+    },
+    {
+      "Name": "Merge PDFs and Other Resources",
+	  "URL": "https://dpdf.io/docs/usersguide/solutions/word-pdf/",
+	  "Image": "C.png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<document xmlns="https://www.dynamicpdf.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.dynamicpdf.com https://www.dynamicpdf.com/schemas/DLEX20.xsd" version="2.0" author="" keywords="" subject="" title="" id="Document1">
+  <report id="Report1" dataName="Solutions" pageSize="letter" pageOrientation="portrait" leftMargin="50" topMargin="50" rightMargin="50" bottomMargin="50">
+    <template id="Template1"/>
+    <header id="Header1" height="20">
+      <label id="NameLabel" x="5" y="1" width="100" height="14" underline="false" text="Name&#10;"/>
+      <label id="URLLabel" x="113" y="1" width="100" height="14" underline="false" text="Location"/>
+      <rectangle id="Rectangle1" x="0" y="-1" width="299" height="19" borderColor="blue"/>
+    </header>
+    <detail id="Detail1" autoSplit="false" height="30">
+      <recordBox id="NameRB" x="5" y="4" width="100" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" rightToLeft="false" splittable="false" dataName="Name"/>
+      <recordBox id="URLRB" x="113" y="4" width="185" height="14" underline="false" autoLeading="true" cleanParagraphBreaks="true" expandable="false" rightToLeft="false" splittable="false" dataName="URL"/>
+      <image id="Image1" x="306" y="1" width="70" height="25" path="#Image#" dynamicPath="true"/>
+      <line id="Line1" x1="-2" y1="27" x2="296" y2="26"/>
+      <symbol id="Symbol1" x="387" y="1" width="45" height="14" symbolType="check1"/>
+      <symbol id="Symbol2" x="437" y="1" width="43" height="14" symbolType="square"/>
+    </detail>
+    <footer id="Footer1" height="50">
+      <image id="Image2" x="218" y="4" width="100" height="39" path="#Logo#" dynamicPath="true"/>
+    </footer>
+  </report>
+</document>
